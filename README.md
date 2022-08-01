@@ -13,7 +13,7 @@ Refactor ATM App exercise from MIT XPRO class
 
 
 
-<img src="./ATMplus" width="700">
+
 <h2>Roadmap Run:</h2>
 
 1. Create welcome screen with Account Holders name when first logging in
