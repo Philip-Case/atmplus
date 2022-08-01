@@ -13,13 +13,14 @@ Refactor ATM App exercise from MIT XPRO class
 
 
 
-
+<img src="./ATMplus" width="700">
 <h2>Roadmap Run:</h2>
 
 1. Create welcome screen with Account Holders name when first logging in
 2. Add account transfer option
 3. Add account transaction history display/printout/email/text option
 4. Add currency translator
+5. Format Account Balance to currency format using  import Currency from 'react-currency-formatter'
 
 <h2> CHALLENGES</h2>
 None
